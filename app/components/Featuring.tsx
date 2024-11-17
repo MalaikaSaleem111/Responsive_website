@@ -18,7 +18,7 @@ export default function Featuring(){
           
             
               <div className="w-1/2 lg:w-1/4 text-center">
-              <Image src="/Poetry.jpg" alt="poetry" width={500} height={500} className="w-36 h-60 mx-auto" />
+              <Image src="/poetry.jpg" alt="poetry" width={500} height={500} className="w-36 h-60 mx-auto" />
               <p className="text-center font-bold text-lg mb-2">Poetry</p>
               <button className="w-28 h-14 font-bold p-4 text-white bg-slate-600 rounded-full">See More</button>
               </div>
