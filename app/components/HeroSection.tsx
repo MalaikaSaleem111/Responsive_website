@@ -8,7 +8,7 @@ export default function HeroSection(){
             <button className="bg-slate-400 w-28 text-center text-xl font-bold rounded-lg mx-14 my-4 px-4 h-14">Explore</button>
             </div>
             
-            <Image src="/book.jpg" alt="poster" height={500} width={500} className="w-full md:w-1/2 lg:ml-36 rounded-md"/>
+            <Image src="/book.jpg" alt="poster" height={500} width={500} className="w-full md:w-1/2 rounded-md"/>
         </div>
     )
 }
